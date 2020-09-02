@@ -5,6 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>../xc-service-manage-cms</module>
+        <module>../xc-framework-freemarker</module>
+        <module>../xc-framework-rabbitMQ</module>
+        <module>../xc-framework-rabbitmq-producer</module>
+        <module>../xc-framework-rabbitmq-consumer</module>
+        <module>../xc-service-manage-cms-client</module>
+        <module>../xc-framework-fastdfs</module>
+        <module>../xc-govern-center</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

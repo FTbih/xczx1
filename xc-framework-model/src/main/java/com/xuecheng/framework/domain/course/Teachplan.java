@@ -31,5 +31,4 @@ public class Teachplan implements Serializable {
     private Integer orderby;
     private Double timelength;
     private String trylearn;
-
 }
